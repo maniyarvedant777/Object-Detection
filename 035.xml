@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Aishu</folder>
+	<filename>035.jpg</filename>
+	<path>C:\Users\admin\Desktop\Aishu\035.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aishwarya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>976</xmin>
+			<ymin>644</ymin>
+			<xmax>1306</xmax>
+			<ymax>1066</ymax>
+		</bndbox>
+	</object>
+</annotation>

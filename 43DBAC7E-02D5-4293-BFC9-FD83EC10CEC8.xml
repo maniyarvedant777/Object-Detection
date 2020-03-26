@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Aishu</folder>
+	<filename>43DBAC7E-02D5-4293-BFC9-FD83EC10CEC8.jpg</filename>
+	<path>C:\Users\admin\Desktop\Aishu\43DBAC7E-02D5-4293-BFC9-FD83EC10CEC8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aishwarya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>323</ymin>
+			<xmax>699</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>
